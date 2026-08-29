@@ -8,6 +8,7 @@ build/
 
 # Cache
 .cache/
+.wrangler/
 *.tsbuildinfo
 
 # Environment variables
