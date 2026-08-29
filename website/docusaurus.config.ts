@@ -6,7 +6,7 @@ const config: Config = {
   title: 'CloudCaptain',
   tagline: 'Your Open-Source Learning Hub for Cloud, DevOps, AI & Beyond',
   favicon: 'img/favicon.ico',
-  url: 'https://cloudcaptain.io',
+  url: 'https://cloudcaptain.apexforge360.com',
   baseUrl: '/',
   organizationName: 'nomadicmehul',
   projectName: 'CloudCaptain',
@@ -57,8 +57,8 @@ const config: Config = {
         '@context': 'https://schema.org',
         '@type': 'Organization',
         name: 'CloudCaptain',
-        url: 'https://cloudcaptain.io',
-        logo: 'https://cloudcaptain.io/img/cloudcaptain-logo.jpg',
+        url: 'https://cloudcaptain.apexforge360.com',
+        logo: 'https://cloudcaptain.apexforge360.com/img/cloudcaptain-logo.jpg',
         description: 'Open-source community learning platform for Cloud, DevOps, AI, and Operations.',
         sameAs: [
           'https://github.com/nomadicmehul/CloudCaptain',
@@ -76,7 +76,7 @@ const config: Config = {
         '@context': 'https://schema.org',
         '@type': 'WebSite',
         name: 'CloudCaptain',
-        url: 'https://cloudcaptain.io',
+        url: 'https://cloudcaptain.apexforge360.com',
         description: 'Free open-source learning hub for Cloud, DevOps, AI & Operations with curated paths, hands-on labs, and interview prep.',
         publisher: {
           '@type': 'Organization',

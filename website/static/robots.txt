@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cloudcaptain.io/sitemap.xml
+Sitemap: https://cloudcaptain.apexforge360.com/sitemap.xml
 
 # Disallow build artifacts and internal paths
 Disallow: /search
